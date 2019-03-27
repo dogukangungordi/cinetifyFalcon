@@ -1,0 +1,10 @@
+bcrypt
+Cerberus
+coverage
+falcon
+gunicorn
+itsdangerous
+nose
+psycopg2
+python-mimeparse
+six
